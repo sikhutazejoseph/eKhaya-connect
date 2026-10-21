@@ -21,3 +21,11 @@ Click the links below to view the specific Agile artifacts for this project:
 *   📋 **[3. Product Backlog](./03-Product-Backlog.md)** - Prioritized list of all project features.
 *   🏃‍♂️ **[4. Sprint Backlog](./04-Sprint-Backlog.md)** - Tasks selected for our specific sprints.
 *   📔 **[5. Agile Logbook](./05-Agile-Logbook.md)** - Weekly stand-ups, retrospectives, and progress logs.
+  
+*   ## 📸 Visual Evidence
+
+### Trello Board (Product Backlog & Sprints)
+![Trello Board](trello-board.png)
+
+### Agile Logbook (Daily Standups)
+![Agile Logbook](agile-logbook.png)
