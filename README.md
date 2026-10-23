@@ -1,6 +1,9 @@
 # 🌐 Ekhaya Connect: Affordable WISP Project
+
 **Module:** PRP371S - Entrepreneurial WIL Project
+
 **Student:** Sikhutaze Joseph
+
 **Project:** Portfolio of Evidence (Agile)
 
 ## 🚀 Project Overview
@@ -34,7 +37,7 @@ Click the links below to view the specific Agile artifacts and reflections:
 *   **Reflection:** Creating wireframes taught me the importance of empathy in design. We had to strip away the colors and focus purely on layout. I realized that many residents in Khayelitsha use mobile phones, so we ensured our wireframes were mobile-first. This process saved us a lot of time later, as we caught design flaws before writing a single line of code.
 
 ### 3. Brand Guide
-*   **Link:** Brand identity was created in collaboration with the team (Visual assets available upon request).
+*   **Link:** [View the Ekhaya Connect Brand Guide](eKhaya_Connect_Brand_Guide.pdf)
 *   **Reflection:** The brand guide was a crucial learning step. It taught me that a business is more than just its product; it is an identity. We chose colors and fonts that resonate with the Khayelitsha community—aiming for a look that feels modern, trustworthy, and approachable.
 
 ### 4. Business Model Canvas
