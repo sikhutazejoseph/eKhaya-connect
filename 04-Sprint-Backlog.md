@@ -1,4 +1,4 @@
-# 🏃‍♂️ Sprint Backlogs
+ # 🏃‍♂️ Sprint Backlogs
 
 The project was divided into four one-week sprints. Here is the breakdown of the work completed in each.
 
@@ -30,3 +30,6 @@ The project was divided into four one-week sprints. Here is the breakdown of the
 *   [ ] Testing & Quality Assurance (0/4 completed)
 *   [ ] Review against mockups (0/7 completed)
 *(Note: Sprint 4 was planned for future development phases).*
+
+## Reflection
+The Sprint Backlog was a lesson in realistic planning and scope management. By assigning tasks to specific team members and putting them into short Sprints, I had to be honest about how much work we could actually complete. **My role** required me to ensure my assigned tasks were moved across the Trello board from "In Progress" to "Completed" by the end of each sprint. I learned that it is better to complete a few tasks fully than to start everything and finish nothing. It highlighted the value of short cycles, as it allowed us to review our progress regularly and adjust for the next sprint.
