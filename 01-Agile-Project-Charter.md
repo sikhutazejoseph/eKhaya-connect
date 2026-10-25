@@ -2,6 +2,7 @@
 
 ## 1. Purpose & Vision
 **Vision:** To bridge the digital divide in Khayelitsha by providing affordable, reliable, uncapped home internet to residents and small business owners.
+
 **Value Proposition:** Ekhaya Connect provides a competitively priced fixed wireless service (R399/month) so that residents can access education, job opportunities and entertainment without exceeding their household budgets.
 
 ## 2. Scope
