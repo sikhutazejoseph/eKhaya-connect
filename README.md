@@ -8,10 +8,11 @@
 
 ## 🚀 Project Overview
 **The Problem:** Khayelitsha faces a severe digital divide due to major telecom companies under-investing in the area. Residents and small business owners struggle daily with a lack of affordable, reliable home internet.
+
 **Our Solution:** *Ekhaya Connect* is a Wireless Internet Service Provider (WISP) offering uncapped 10 Mbps fixed wireless internet for approximately R399/month. By leveraging a shared high-speed fibre link and local wireless dishes, we provide affordable access without needing massive infrastructure rollouts.
 
 ## 👥 Team Members
-*   **Sikhutaze Joseph**
+*   Sikhutaze Joseph
 *   Bongiwe Ntwasa
 *   Elam Mthwane
 *   Phumelela Nzewu
@@ -37,7 +38,7 @@ Click the links below to view the specific Agile artifacts and reflections:
 *   **Reflection:** Creating wireframes taught me the importance of empathy in design. We had to strip away the colors and focus purely on layout. I realized that many residents in Khayelitsha use mobile phones, so we ensured our wireframes were mobile-first. This process saved us a lot of time later, as we caught design flaws before writing a single line of code.
 
 ### 3. Brand Guide
-*   **Link:** [📥 Click here to download/view the Ekhaya Connect Brand Guide](https://raw.githubusercontent.com/sikhutazejoseph/eKhaya-connect/refs/heads/main/eKhaya_Connect_Brand_Guide.pptx)
+*   **Link:** (https://raw.githubusercontent.com/sikhutazejoseph/eKhaya-connect/refs/heads/main/eKhaya_Connect_Brand_Guide.pptx)
 *   **Reflection:** The brand guide was a crucial learning step. It taught me that a business is more than just its product; it is an identity. We chose colors and fonts that resonate with the Khayelitsha community—aiming for a look that feels modern, trustworthy, and approachable.
 
 ### 4. Business Model Canvas
