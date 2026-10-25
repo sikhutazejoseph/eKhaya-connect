@@ -39,7 +39,7 @@ Click the links below to view the specific Agile artifacts and reflections:
 
 ### 3. Brand Guide
 *   **Link:** (https://raw.githubusercontent.com/sikhutazejoseph/eKhaya-connect/refs/heads/main/eKhaya_Connect_Brand_Guide.pptx)
-*   **Reflection:** The brand guide was a crucial learning step. It taught me that a business is more than just its product; it is an identity. We chose colors and fonts that resonate with the Khayelitsha community—aiming for a look that feels modern, trustworthy, and approachable.
+*   **Reflection:** The brand guide was a crucial learning step. It taught me that a business is more than just its product; it is an identity. We chose colors and fonts that resonate with the Khayelitsha community aiming for a look that feels modern, trustworthy, and approachable.
 
 ### 4. Business Model Canvas
 *   **Link:** [Ekhaya Connect Business Model Canvas](https://canva.link/vi2pxlhuby6cnld)
