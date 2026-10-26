@@ -45,6 +45,13 @@ Click the links below to view the specific Agile artifacts and reflections:
 *   **Link:** [Ekhaya Connect Business Model Canvas](https://canva.link/vi2pxlhuby6cnld)
 *   **Reflection:** The Business Model Canvas was the "big picture" moment for our team. It forced me to confront the financial realities of our WISP idea. By mapping out our costs against our revenue, I understood the importance of scale and customer retention.
 
+### 5. Solution Architecture
+![Ekhaya Connect Solution Architecture](solution-architecture.png)
+
+**Description:** A comprehensive end-to-end architecture diagram mapping out the Subscriber platform, Application/API Layer, Core Orchestration Engine, Network Operations Engine, and External Ecosystem.
+
+**Reflection:** Designing the solution architecture was a critical step in proving the technical feasibility of Ekhaya Connect. It shifted my perspective from just seeing the "business idea" to understanding the complex engine behind it. I learned how a Wireless Internet Service Provider (WISP) actually functions—from the payment gateway and RADIUS provisioning, to the NOC monitoring and field agent scheduling. Mapping out the security and deployment infrastructure (like cloud hosting and CI/CD pipelines) taught me that a successful WISP requires highly coordinated software orchestration to deliver a seamless, uncapped experience to the community.
+
 ## 📸 Visual Evidence
 ### Trello Board (Product Backlog & Sprints)
 ![Trello Board](Trello.png)
