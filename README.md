@@ -21,11 +21,11 @@
 ## 📂 Portfolio Index
 Click the links below to view the specific Agile artifacts and reflections:
 
-*   📜 **[1. Agile Team Charter](./01-Agile-Team-Charter.md)**
-*   👤 **[2. User Stories & Tasks](./02-User-Stories-and-Tasks.md)**
-*   📋 **[3. Product Backlog](./03-Product-Backlog.md)**
-*   🏃‍♂️ **[4. Sprint Backlog](./04-Sprint-Backlog.md)**
-*   📔 **[5. Agile Logbook](./05-Agile-Logbook.md)**
+*  📜 **[1. Agile Team Charter](https://github.com/sikhutazejoseph/eKhaya-connect/blob/main/01-Agile-Team-Charter.md)**
+*   👤 **[2. User Stories & Tasks](https://github.com/sikhutazejoseph/eKhaya-connect/blob/main/02-User-Stories-and-Tasks.md)**
+*   📋 **[3. Product Backlog](https://github.com/sikhutazejoseph/eKhaya-connect/blob/main/03-Product-Backlog.md)**
+*   🏃‍♂️ **[4. Sprint Backlog](https://github.com/sikhutazejoseph/eKhaya-connect/blob/main/04-Sprint-Backlog.md)**
+*   📔 **[5. Agile Logbook](https://github.com/sikhutazejoseph/eKhaya-connect/blob/main/05-Agile-Logbook.md)**
 
 ## 🎨 Project Artefacts & Deliverables
 
